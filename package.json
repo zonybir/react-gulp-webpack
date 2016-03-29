@@ -1,0 +1,20 @@
+{
+  "name": "uyixing_wap_dev",
+  "version": "1.0.0",
+  "description": "uyixing wap developer dir",
+  "main": "gulpfile",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "uyixing",
+    "wap",
+    "develper"
+  ],
+  "author": "zony",
+  "license": "ISC"
+}
